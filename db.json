@@ -1,11 +1,35 @@
-{
-  "status":"OK",
-  "data": [
-    { "id": 1, "title": "Search", "link":"#search" },
-    { "id": 2, "title": "Slots", "link":"slots" },
-    { "id": 3, "title": "Live Dealer", "link":"live-dealer" },
-    { "id": 4, "title": "Table Games", "link":"table-games" },
-    { "id": 5, "title": "Offers", "link":"offers" },
-    { "id": 6, "title": "Support", "link":"support" },
-  ],
+{ 
+   "status":"OK",
+   "data":[ 
+      { 
+         "id":1,
+         "title":"Search",
+         "link":"#search"
+      },
+      { 
+         "id":2,
+         "title":"Slots",
+         "link":"slots"
+      },
+      { 
+         "id":3,
+         "title":"Live Dealer",
+         "link":"live-dealer"
+      },
+      { 
+         "id":4,
+         "title":"Table Games",
+         "link":"table-games"
+      },
+      { 
+         "id":5,
+         "title":"Offers",
+         "link":"offers"
+      },
+      { 
+         "id":6,
+         "title":"Support",
+         "link":"support"
+      }
+   ]
 }
